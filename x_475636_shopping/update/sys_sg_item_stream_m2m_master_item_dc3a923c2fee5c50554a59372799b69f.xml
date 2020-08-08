@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Store Item Stream">983a923c2fee5c50554a59372799b69d</item_stream>
+        <master_item display_value="Store master_item">903a923c2fee5c50554a59372799b69f</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-08 08:55:42</sys_created_on>
+        <sys_id>dc3a923c2fee5c50554a59372799b69f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_475636_shopping">7ec5daf42fee5c50554a59372799b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">7ec5daf42fee5c50554a59372799b67f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_dc3a923c2fee5c50554a59372799b69f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-08 08:55:42</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>
